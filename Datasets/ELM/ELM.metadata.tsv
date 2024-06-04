@@ -1,0 +1,78 @@
+Plasfalc	Plasmodium falciparum	Alveolata	Apicomplexa	Genomic	GCF_000002765.4
+Toxogond	Toxoplasma gondii	Alveolata	Apicomplexa	Genomic	GCF_000006565.2
+Vitrbras	Vitrella brassicaformis	Alveolata	Chrompodellids	Genomic	https://cryptodb.org/common/downloads/Current_Release/VbrassicaformisCCMP3155/
+Paratetr	Paramecium tetraurelia	Alveolata	Ciliate	Genomic	GCF_000165425.1
+Stencoer	Stentor coeruleus	Alveolata	Ciliate	Genomic	GCA_001970955.1
+Noctscin	Noctiluca scintillans	Alveolata	Dinoflagellata	Transcriptomic	SRR1296929
+Oxyrmari	Oxyrrhis marina	Alveolata	Dinoflagellata	Transcriptomic	SRR1296901
+Cochminu	Cochliopodium minutoideum	Amoebozoa	Discosea	Transcriptomic	SRR5396445
+Stratubu	Stratorugosa tubuloviscum	Amoebozoa	Discosea	Transcriptomic	SRR7140490
+Protfung	Protostelium aurantium var. fungivorum	Amoebozoa	Evosea	Genomic	GCA_003024175.1
+Schivulg	Schizoplasmodiopsis vulgaris	Amoebozoa	Evosea	Transcriptomic	SRR5396407
+Vermverm	Vermamoeba vermiformis	Amoebozoa	Tubulinea	Transcriptomic	SRR5396399
+Ancysigm	Ancyromonas sigmoides B70	Ancyromonadida	Ancyromonas	Transcriptomic	SRR5997436
+Fabotrop	Fabomonas tropica	Ancyromonadida	Fabomonas	Transcriptomic	SRR5997436
+Nutolong	Nutomonas longa	Ancyromonadida	Nutomonas	Transcriptomic	SRR1617398
+Diphrota	Diphylleia rotans	CRuMs	Collodictyonidae	Transcriptomic	SRR5997434 (Longest 30K contigs)
+Mantplas	Mantamonas plastica	CRuMs	Mantamonas	Transcriptomic	SRR59997433
+Rigiramo	Rigifila ramosa	CRuMs	Rigifilida	Transcriptomic	SRR5997435 (Longest 30K contigs)
+Nephpyri	Nephroselmis pyriformis	Chloroplastida	Chlorophyta	Transcriptomic	SRR1294419
+Volvcart	Volvox carteri	Chloroplastida	Chlorophyta	Genomic	GCF_000143455.1
+Arabthal	Arabidopsis thaliana	Chloroplastida	Streptophyta	Genomic	GCF_000001735.4
+Mesoviri	Mesostigma viride	Chloroplastida	Streptophyta	Transcriptomic	SRR1594255
+Physpate	Physcomitrella patens	Chloroplastida	Streptophyta	Genomic	GCF_000002425.4
+Guilthet	Guillardia theta	Cryptista	Crytomonadales	Genomic	GCF_000315625.1
+Hemirufe	Hemiselmis rufescens	Cryptista	Crytomonadales	Transcriptomic	SRR1300404 https://figshare.com/articles/Marine_Microbial_Eukaryotic_Transcriptomic_Sequencing_Project_re-assemblies/3840153/3
+Goniavon	Goniomonas avonlea	Cryptista	Cyathomonadacea	Genomic	QUTJ00000000
+Hemimari	Hemiarma marina	Cryptista	Cyathomonadacea	Transcriptomic	https://datadryad.org/stash/dataset/doi:10.5061/dryad.jdfn2z3cv
+Roomtrun	Roombia truncata	Cryptista	Katablepharidacea	Transcriptomic	JP435655 - JP445929
+Palpbili	Palpitomonas bilix	Cryptista	Palpitomonas	Transcriptomic	https://de.cyverse.org/anon-files//iplant/home/shared/imicrobe/projects/104/samples/2031/MMETSP0780_clean.pep.fa
+Eugllong	Euglena longa	Discoba	Euglenozoa	Transcriptomic	GGOE00000000.1
+Trypbruc	Trypanosoma brucei	Discoba	Euglenozoa	Genomic	GCF_000210295.1
+Naeggrub	Naegleria gruberi	Discoba	Heterolobosea	Genomic	GCF_000004985.1
+Pharkirb	Pharyngomonas kirbyi	Discoba	Heterolobosea	Transcriptomic	PRJNA301448 (combined assembly of runs in this project SRR2910996 SRR2910995 )
+Andagodo	Andalucia godoyi	Discoba	Jakobida	Transcriptomic	Leger/Roger In House
+Styginca	Stygiella incarcerata	Discoba	Jakobida	Transcriptomic	SRR2566811
+Mhelmari	Microheliella maris	Erebor	Microhelida	Transcriptomic	https://datadryad.org/stash/dataset/doi:10.5061/dryad.jdfn2z3cv
+Cyanpara	Cyanophora paradoxa	Glaucophyta	Cyanophorales	Genomic	http://cyanophora.rutgers.edu/cyanophora_v2018 Cyanophora-MAY2017-augustus-predictions.fasta
+AcanthFB	Acanthocystis sp.	Haptista	Centroplasthelida	Transcriptomic	SRR2170625
+ChoanoFB	Choanocystis sp.	Haptista	Centroplasthelida	Transcriptomic	SRR2170626
+Raphhete	Raphidiophrys heterophryoidea	Haptista	Centroplasthelida	Transcriptomic	SRR2170621
+Calclept	Calcidiscus leptoporus	Haptista	Haptophyta	Transcriptomic	SRR1300371 https://figshare.com/articles/Marine_Microbial_Eukaryotic_Transcriptomic_Sequencing_Project_re-assemblies/3840153/3
+Gephhuxl	Gephyrocapsa huxleyi	Haptista	Haptophyta	Genomic	GCF_000372725.1
+Pleucart	Pleurochrysis carterae	Haptista	Haptophyta	Transcriptomic	https://de.cyverse.org/anon-files//iplant/home/shared/imicrobe/projects/104/samples/2110/MMETSP1136_clean.pep.fa & https://de.cyverse.org/anon-files//iplant/home/shared/imicrobe/projects/104/samples/2111/MMETSP1137_clean.pep.fa & https://de.cyverse.org/anon-files//iplant/home/shared/imicrobe/projects/104/samples/2112/MMETSP1138_clean.pep.fa
+Prymparv	Prymnesium parvum	Haptista	Haptophyta	Transcriptomic	https://de.cyverse.org/anon-files//iplant/home/shared/imicrobe/projects/104/samples/2472/MMETSP1083_clean.pep.fa & https://de.cyverse.org/anon-files//iplant/home/shared/imicrobe/projects/104/samples/2092/MMETSP0814_clean.pep.fa & https://de.cyverse.org/anon-files//iplant/home/shared/imicrobe/projects/104/samples/1970/MMETSP0815_clean.pep.fa & https://de.cyverse.org/anon-files//iplant/home/shared/imicrobe/projects/104/samples/1672/MMETSP0008_clean.pep.fa & https://de.cyverse.org/anon-files//iplant/home/shared/imicrobe/projects/104/samples/1671/MMETSP0007_clean.pep.fa & https://de.cyverse.org/anon-files//iplant/home/shared/imicrobe/projects/104/samples/1670/MMETSP0006_clean.pep.fa
+Hemikukw	Hemimastix kukwesjijk	Hemimastigophora	Hemimastix	Transcriptomic	https://datadryad.org/bitstream/handle/10255/dryad.190233/4_Transcriptomic_assemblies.zip?sequence=1
+SpirCILI	Spironema cf. Ciliatum	Hemimastigophora	Spironema	Transcriptomic	https://datadryad.org/bitstream/handle/10255/dryad.190233/4_Transcriptomic_assemblies.zip?sequence=1
+Gefiokel	Gefionella okellyi	Malawimonadida	Gefionella	Transcriptomic	SRR59996795
+Barthesp	Barthelona sp.	Metamonada	Barthelonids	Transcriptomic	https://datadryad.org/stash/dataset/doi:10.5061/dryad.3tx95x6bn
+Carpmemb	Carpediemonas membranifera	Metamonada	Fornicata	Transcriptomic	SRR3734914
+Parapyri	Paratrimastix pyriformis	Metamonada	Preaxostyla	Transcriptomic	GAFH01000000
+Thectrah	Thecamonas trahens	Obazoa	Apusomonadida	Genomic	GCF_000142905.1
+Pygsbifo	Pygsuia biforma	Obazoa	Breviatea	Transcriptomic	SRR766063
+Monobrev	Monosiga brevicollis	Obazoa	Choanoflagellata	Genomic	GCF_000002865.3
+Capsowcz	Capsaspora owczarzaki	Obazoa	Filasterea	Genomic	GCF_000151315.2
+Spizpunc	Spizellomyces punctatus	Obazoa	Fungi	Genomic	GCF_000182565.1
+Homosapi	Homo sapiens	Obazoa	Metazoa	Genomic	GCF_000001405.38
+Parvatla	Parvularia atlantis	Obazoa	Rotosphaerida	Transcriptomic	SRR1617645
+COSAG02	Picozoa Group 1	Picozoa	Picozoa	Genomic	https://doi.org/10.6084/m9.figshare.c.5388176
+Ancytwis	Ancoracysta twista	Provora	Nebulidia	Transcriptomic	SRR6175506
+Aurisoli	Aurigamonas solis	Rhizaria	Cercozoa	Transcriptomic	SRR7816690
+Bigenata	Bigelowiella natans	Rhizaria	Cercozoa	Genomic	GCF_000002455.1
+MatazaD1	Mataza sp.	Rhizaria	Cercozoa	Transcriptomic	https://de.cyverse.org/anon-files//iplant/home/shared/imicrobe/projects/104/samples/1696/MMETSP0086_clean.pep.fa & https://de.cyverse.org/anon-files//iplant/home/shared/imicrobe/projects/104/samples/1715/MMETSP0087_clean.pep.fa
+Plasbras	Plasmodiophora brassicae	Rhizaria	Endomyxa	Genomic	ftp://ftp.ensemblgenomes.org/pub/protists/release-41/fasta/protists_rhizaria1_collection/plasmodiophora_brassicae/pep/
+Ammo1384	Ammonia sp.	Rhizaria	Retaria	Transcriptomic	https://figshare.com/articles/Marine_Microbial_Eukaryotic_Transcriptomic_Sequencing_Project_re-assemblies/3840153/3
+Rhodemar	Rhodelphis marinus	Rhodelphidia	Rhodelphis	Transcriptomic	https://datadryad.org/bitstream/handle/10255/dryad.218233/Rmarinus.zip?sequence=1
+Galdphle	Galdieria phlegrea	Rhodophyta	Cyanidiales	Genomic	https://www.genoscope.cns.fr/tara/
+Gracchor	Gracilariopsis chorda	Rhodophyta	Eurhodophytina	Genomic	http://porphyra.rutgers.edu/bindex.php
+Porppurp	Porphyra purpurea	Rhodophyta	Proteorhodophytina	Genomic	http://porphyra.rutgers.edu/bindex.php
+Deveeleg	Developayella elegans	Stramenopiles	Developayella	Transcriptomic	DRR049556
+Ochr2298	Ochromonadaceae sp. CCMP2298	Stramenopiles	Ochrophyta-Chrysophyceae	Transcriptomic	SRR485951
+EctocSP7	Ectocarpus sp. 7	Stramenopiles	Ochrophyta-Phaeophyceae	Genomic	GCA_000310025.1
+Heteakas	Heterosigma akashiwo	Stramenopiles	Ochrophyta-Raphidophyceae	Trasncriptomic	https://de.cyverse.org/anon-files//iplant/home/shared/imicrobe/projects/104/samples/1800/MMETSP0292_clean.pep.fa & https://de.cyverse.org/anon-files//iplant/home/shared/imicrobe/projects/104/samples/1801/MMETSP0294_clean.pep.fa & https://de.cyverse.org/anon-files//iplant/home/shared/imicrobe/projects/104/samples/1802/MMETSP0295_clean.pep.fa & https://de.cyverse.org/anon-files//iplant/home/shared/imicrobe/projects/104/samples/1803/MMETSP0296_clean.pep.fa
+BicoCB20	Bicosoecida sp.	Stramenopiles	Opalozoa	Transcriptomic	SRR1294383?? SRR1294382??? SRR1294381??? SRR1294380???
+Wobbluna	Wobblia lunata	Stramenopiles	Opalozoa	Transcriptomic	DRR049555
+Phytpara	Phytophthora parasitica	Stramenopiles	Pseudofungi	Genomic	GCF_000247585.1
+Auralima	Aurantiochytrium limacinum	Stramenopiles	Sagenista	Genomic	JGI Project: 402021|Aurli1
+TeloneP2	Telonema sp. P2	Telonemia	Telonema	Transcriptomic	SRR7371266
+Telosubt	Telonema subtilis	Telonemia	Telonema	Transcriptomic	SRR7371267
